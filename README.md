@@ -1,2 +1,2 @@
-# C23-test
-C23 class
+# staticSquare
+A static square made using Matter.js physics engine
